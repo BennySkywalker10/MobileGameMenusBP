@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8246B22A-7F18-7C3A-68BB-150098664D8A}</ProjectGuid>
+    <ProjectGuid>{F4D29BE5-5A59-CEF7-710B-1EB99AD85F82}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -283,22 +283,22 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Plastic.Antlr3.Runtime">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="log4netPlastic">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
  </Reference>
  <Reference Include="ICSharpCode.NRefactory">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/PackageCache/com.unity.render-pipelines.core@10.5.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/PackageCache/com.unity.render-pipelines.core@10.5.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="unityplastic">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/PackageCache/com.unity.collab-proxy@1.7.1/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -655,81 +655,81 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/System.Xml.XPath.XDocument.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ShaderGraph.Editor">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Universal.Shaders">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Universal.Editor">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Universal.Runtime">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualStudio.Editor">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Searcher.Editor">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.Runtime">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PlasticSCM.Editor">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.Editor">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics">
- <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ <HintPath>D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{5C2F0B79-EFF3-4380-58A5-D90E49650860}</Project>
+      <Project>{708EE0DC-3FED-3212-EFDA-AF800D530DA2}</Project>
       <Name>Assembly-CSharp</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
