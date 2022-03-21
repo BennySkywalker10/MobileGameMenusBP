@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Gameplay.unity
     guid: d00cc5ba4f932574a9079a4f7f128aa9
+  - enabled: 1
+    path: Assets/Scenes/Spaceship.unity
+    guid: 6eae560ada53fc54fa55c4322e5dce94
   m_configObjects: {}

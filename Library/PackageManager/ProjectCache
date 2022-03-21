@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637807174469164675
+      ticks: 637817570906425884
     m_Hash: 1787866731
   m_LockFileStatus:
     m_FilePath: D:/MobileGameDevelopment/Mobile Game Menus BP/MobileGameMenusBP/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637807174765212791
+      ticks: 637817570906535893
     m_Hash: 885148030
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -3285,6 +3285,7 @@ m_PackageAssets:
         - 2.0.0
         - 2.0.1-preview.1
         - 2.0.2
+        - 3.0.1
         compatible:
         - 1.0.0-preview.2
         - 1.0.0-preview.3
@@ -3297,6 +3298,7 @@ m_PackageAssets:
         - 2.0.0
         - 2.0.1-preview.1
         - 2.0.2
+        - 3.0.1
         verified: 2.0.2
       dependencies: []
       resolvedDependencies: []
